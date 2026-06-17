@@ -1,3 +1,5 @@
+package ru.netelogy.JavaQA.JavaQAhomework14.Exception;
+
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

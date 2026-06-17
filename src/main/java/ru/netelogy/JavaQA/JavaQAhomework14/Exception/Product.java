@@ -1,3 +1,5 @@
+package ru.netelogy.JavaQA.JavaQAhomework14.Exception;
+
 import java.util.Objects;
 
 public class Product {

@@ -1,3 +1,6 @@
+package ru.netelogy.JavaQA.JavaQAhomework14.Exception;
+
+
 public class ShopRepository {
     private Product[] products = new Product[0];
 
